@@ -1,4 +1,5 @@
-# MES -  Manufacturing Execution System
+# MES -  METODA ELEMENTÓW SKOŃCZONYCH
+# FEM - finite element method 
 The task of the program was to conduct a simulation of the unsteady heat flow process with a boundary condition of convection. To achieve this, Fourier's equation for an unsteady process was used.
 
 The entire project was written in C++. The majority of the program is written in the main function, step by step leading to the solution of the studied problem. The program contains structures, namely:
